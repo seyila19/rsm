@@ -520,8 +520,7 @@ function IntroScreen({ onStart }: { onStart: () => void }) {
           </span>
         </h1>
         <p className="text-[0.85rem] text-slate-300/85">
-          When I click begin I leave the RSM359 course outline and move into
-          what actually changed for me.
+          Click begin to see my journey through RSM359.
         </p>
       </div>
 
